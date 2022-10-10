@@ -1,0 +1,3 @@
+echo "172.17.0.2	fireball" >> /etc/hosts
+echo "172.17.0.2	frostbolt" >> /etc/hosts 
+echo "172.17.0.2	icelance" >> /etc/hosts
